@@ -1,0 +1,6 @@
+{
+  "name": "Student CRUD Application",
+  "description": "A comprehensive Student Management & CRUD application to create, view, edit, filter, and manage student records with CSV export and local storage persistence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
